@@ -18,10 +18,10 @@ The system is designed for research use, with an emphasis on electrical safety, 
 The trigger is intended to be fired once per session, typically at the moment EEG recording begins, allowing EEG and ECG data streams to be temporally aligned during analysis.
 
 ## Status
-- PCB design completed
-- Sent for manufacturing (JLCPCB)
-- Assembly and validation pending
-- Firmware to be added
+- PCB manufactured (JLCPCB)
+- Assembly in progress
+- Validation pending
+
 
 ## Disclaimer
 This project is intended for research and experimental use only.
