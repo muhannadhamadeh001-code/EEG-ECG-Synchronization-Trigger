@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\EEG_Trigger\Project Outputs for EEG_Trigger\Pick Place\Pick Place for EEG_Trigger.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/12/25
+Time:       20:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"D5","GREEN","TopLayer","LED0402G","175.000","610.000","270","LED GREEN 0402 SMD"
+"R10","1K","TopLayer","RESC1005X37N","2090.000","582.008","90","RES 1K OHM 1% 1/16W 0402"
+"D4","GREEN","TopLayer","LED0402G","2030.000","583.701","270","LED GREEN 0402 SMD"
+"R9","100?","TopLayer","RESC1508X55N","2470.000","1545.000","90","Yageo RC0603FR-07100RL 0603 SMD Resistor 100 Ohm thin film chip resistor"
+"R28","1K","TopLayer","RESC1005X37N","240.000","607.008","90","RES 1K OHM 1% 1/16W 0402"
+"R27","1K","TopLayer","RESC1005X37N","230.000","1657.008","90","RES 1K OHM 1% 1/16W 0402"
+"D9","GREEN","TopLayer","LED0402G","160.000","1658.701","270","LED GREEN 0402 SMD"
+"XTAL1","ABM8G","TopLayer","XTAL_ABM8G-16.000MHZ-18-D2Y-T","1640.000","685.000","0","16 MHz ±20ppm Crystal 18pF 80 Ohms 4-SMD, No Lead"
+"U4","NXE1","TopLayer","NXE1S0505MC_MUR","2180.000","1480.000","90","Isolated Module DC DC Converter 1 Output 5V 200mA 4.5V - 5.5V Input"
+"U3","ATMEGA328P-AU","TopLayer","QFP80P900X900X120-32N","1450.000","980.000","90","AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+"U2","6N137","TopLayer","DIP762W50P254L977H451Q8","2240.000","984.252","0","Logic Output Optoisolator 10MBd Open Collector 5000Vrms 1 Channel 10kV/µs CMTI 8-DIP"
+"U1","CP2102N","TopLayer","QFN50P400X400X80-25N","992.362","984.252","0","USB Bridge, USB to UART USB 2.0 UART Interface 24-QFN (4x4)"
+"R8","10K","TopLayer","RESC1005X37N","1210.000","1057.008","90","RES 10K OHM 1% 1/16W 0402"
+"R7","4K7","TopLayer","RESC1005X37N","2470.000","1650.000","90","RES 4.7K OHM 1% 1/16W 0402"
+"R6","330? 0603","TopLayer","RESC1508X55N","1880.000","1010.000","0","330 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R5","1M?","TopLayer","RESC1508X55N","190.000","1215.000","0","1 MOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Anti-Sulfur Thin Film"
+"R4","5K1","TopLayer","RESC1005X37N","470.000","1090.000","180","RES SMD 5.1K OHM 1% 1/16W 0402"
+"R3","5K1","TopLayer","RESC1005X37N","422.992","870.000","180","RES SMD 5.1K OHM 1% 1/16W 0402"
+"R2","27R","TopLayer","RESC1005X37N","693.800","959.002","0","RES 27 OHM 1% 1/16W 0402"
+"R1","27R","TopLayer","RESC1005X37N","693.800","1009.002","0","RES 27 OHM 1% 1/16W 0402"
+"J3","6 Pins","TopLayer","SAMTEC_TSW-103-07-G-D","1310.000","1590.000","180","Connector Header Through Hole 6 position 0.100" (2.54mm)"
+"J1","217179-0001","TopLayer","FP-2171790001-MFG","154.783","990.000","270","CONN RCP USB2.0 TYP C 24P SMD RA"
+"D3","AQ3045-01ETG","TopLayer","SOD882","410.000","950.000","90","TVS DIODE 5.3VWM 12VC SOD882"
+"D2","AQ3045-01ETG","TopLayer","SOD882","409.522","1020.042","270","TVS DIODE 5.3VWM 12VC SOD882"
+"D1","AQ3045-01ETG","TopLayer","SOD882","320.000","832.795","90","TVS DIODE 5.3VWM 12VC SOD882"
+"C17","4.7uF, 16V","TopLayer","CAPC1005X65N","2470.000","1010.000","90","CAP CER 4.7UF 16V X5R 0402"
+"C16","1uF, 35V","TopLayer","CAPC1005X65N","2470.000","900.000","270","CAP CER 1UF 35V X5R 0402"
+"C15","1uF, 35V","TopLayer","CAPC1005X65N","2084.126","1224.778","0","CAP CER 1UF 35V X5R 0402"
+"C14","100nF, 50V","TopLayer","CAPC1005X65N","1422.795","1210.000","0","CAP CER 0.1UF 50V X7R 0402"
+"C13","22pF","TopLayer","CAPC1005X65N","1515.891","689.062","0","22 pF ±1% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C12","22pF","TopLayer","CAPC1005X65N","1745.000","670.000","270","22 pF ±1% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric)"
+"C11","100nF, 50V","TopLayer","CAPC1005X65N","2542.389","1025.122","180","CAP CER 0.1UF 50V X7R 0402"
+"C10","1uF, 35V","TopLayer","CAPC1005X65N","1390.000","700.000","0","CAP CER 1UF 35V X5R 0402"
+"C9","100nF, 50V","TopLayer","CAPC1005X65N","1390.000","750.000","0","CAP CER 0.1UF 50V X7R 0402"
+"C8","100nF, 50V","TopLayer","CAPC1005X65N","1510.000","1210.000","0","CAP CER 0.1UF 50V X7R 0402"
+"C7","100nF, 50V","TopLayer","CAPC1005X65N","1509.584","1263.358","0","CAP CER 0.1UF 50V X7R 0402"
+"C5","100nF, 50V","TopLayer","CAPC1005X65N","960.000","1130.000","90","CAP CER 0.1UF 50V X7R 0402"
+"C4","10uF 0805","TopLayer","CAPC2012X88N","368.363","1174.402","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 10V 10uF X7R 0805 10% AEC-Q200"
+"C3","100nF, 50V","TopLayer","CAPC1005X65N","360.000","1090.000","180","CAP CER 0.1UF 50V X7R 0402"
+"C2","1uF, 35V","TopLayer","CAPC1005X65N","842.795","870.000","0","CAP CER 1UF 35V X5R 0402"
+"C1","100nF, 50V","TopLayer","CAPC1005X65N","842.795","930.000","180","CAP CER 0.1UF 50V X7R 0402"
